@@ -1,6 +1,6 @@
 # Firewall-Configuration-and-Network-Traffic-Analysis-Lab
 
-**Objective**
+**Overview**
 Configured and tested firewall rules in linux using UFW to block specific webnsites, then analyze the traffic with Wireshark
 
 **Tools**
